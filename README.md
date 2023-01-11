@@ -3,26 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marco-miani&label=Profile%20views&color=087a00&style=flat" alt="marco-miani" /> </p>
 
-- 🔭 I’m currently working on [Test](Test)
-
-- 🌱 I’m currently learning **Test**
-
-- 👯 I’m looking to collaborate on [Test](Test)
-
-- 🤝 I’m looking for help with [Test](Test)
-
-- 👨‍💻 All of my projects are available at [Test](Test)
-
-- 📝 I regularly write articles on [Test](Test)
-
-- 💬 Ask me about **Test**
-
-- 📫 How to reach me **Test**
-
-- 📄 Know about my experiences [Test](Test)
-
-- ⚡ Fun fact **Test**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eng-miani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eng-miani/" height="30" width="40" /></a>
